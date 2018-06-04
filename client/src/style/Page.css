@@ -1,0 +1,25 @@
+.wiki-page {
+    margin: 0 auto;
+    width: 80%;
+    background-color: #fdfbfb;
+    padding: 25px 10px 25px 10px;
+}
+
+.wiki-page-title {
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.wiki-page-cards {
+    margin-top: 20px;
+}
+
+.wiki-page-miss {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.wiki-page-links-button {
+    margin: 10px;
+}

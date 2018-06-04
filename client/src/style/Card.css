@@ -1,0 +1,24 @@
+.wiki-card-wrapper {
+    background-color: white;
+    border: 1px solid #ccc;
+    margin: 5px;
+    padding-left: 0px;
+    display: flex;
+    align-items: center;
+}
+.wiki-card-image {
+    width: 50px;
+}
+
+.wiki-card-text {
+    padding: 5px;
+    white-space: nowrap;
+    width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+}
+
+.wiki-card-text.false {
+    color: red;
+}
